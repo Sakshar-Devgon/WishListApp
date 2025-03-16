@@ -9,8 +9,7 @@ Welcome to **WishList**, the ultimate app for managing your wishes effortlessly!
 ✅ **Create Wishes** – Add wishes with a title and description.  
 👀 **View Wishes** – Browse all your wishes in a clean, organized list.  
 📝 **Edit Wishes** – Modify wish details effortlessly.  
-🗑 **Delete Wishes** – Swipe-to-dismiss for a smooth deletion experience.  
-🚨 **Error Handling** – Get user-friendly notifications to keep things running smoothly.  
+🗑 **Delete Wishes** – Swipe-to-dismiss for a smooth deletion experience.   
 🎨 **Modern UI** – Powered by **Material Design 3** for a polished look and feel.  
 
 ---
